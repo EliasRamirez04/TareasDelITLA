@@ -1,0 +1,14 @@
+C:\Users\Elias\Downloads\BiblioSmart\CapaNegocio\bin\Debug\net48\CapaNegocio.dll
+C:\Users\Elias\Downloads\BiblioSmart\CapaNegocio\bin\Debug\net48\CapaNegocio.pdb
+C:\Users\Elias\Downloads\BiblioSmart\CapaNegocio\bin\Debug\net48\CapaDatos.dll
+C:\Users\Elias\Downloads\BiblioSmart\CapaNegocio\bin\Debug\net48\CapaEntidades.dll
+C:\Users\Elias\Downloads\BiblioSmart\CapaNegocio\bin\Debug\net48\CapaDatos.pdb
+C:\Users\Elias\Downloads\BiblioSmart\CapaNegocio\bin\Debug\net48\CapaEntidades.pdb
+C:\Users\Elias\Downloads\BiblioSmart\CapaNegocio\obj\Debug\net48\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Elias\Downloads\BiblioSmart\CapaNegocio\obj\Debug\net48\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias\Downloads\BiblioSmart\CapaNegocio\obj\Debug\net48\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Elias\Downloads\BiblioSmart\CapaNegocio\obj\Debug\net48\CapaNegocio.AssemblyInfo.cs
+C:\Users\Elias\Downloads\BiblioSmart\CapaNegocio\obj\Debug\net48\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Elias\Downloads\BiblioSmart\CapaNegocio\obj\Debug\net48\CapaNego.81B9D119.Up2Date
+C:\Users\Elias\Downloads\BiblioSmart\CapaNegocio\obj\Debug\net48\CapaNegocio.dll
+C:\Users\Elias\Downloads\BiblioSmart\CapaNegocio\obj\Debug\net48\CapaNegocio.pdb
