@@ -1,0 +1,9 @@
+C:\Users\Elias\Downloads\BiblioSmart\CapaEntidades\bin\Debug\net48\CapaEntidades.dll
+C:\Users\Elias\Downloads\BiblioSmart\CapaEntidades\bin\Debug\net48\CapaEntidades.pdb
+C:\Users\Elias\Downloads\BiblioSmart\CapaEntidades\obj\Debug\net48\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Elias\Downloads\BiblioSmart\CapaEntidades\obj\Debug\net48\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias\Downloads\BiblioSmart\CapaEntidades\obj\Debug\net48\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\Elias\Downloads\BiblioSmart\CapaEntidades\obj\Debug\net48\CapaEntidades.AssemblyInfo.cs
+C:\Users\Elias\Downloads\BiblioSmart\CapaEntidades\obj\Debug\net48\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Elias\Downloads\BiblioSmart\CapaEntidades\obj\Debug\net48\CapaEntidades.dll
+C:\Users\Elias\Downloads\BiblioSmart\CapaEntidades\obj\Debug\net48\CapaEntidades.pdb
